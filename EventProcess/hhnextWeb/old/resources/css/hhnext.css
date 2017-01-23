@@ -1,0 +1,72 @@
+#my-toolbar-strokeWidth{
+	padding:0 0 0 0px;color:#0000FF;font-size:24px
+}
+.my-property-fill{
+	width:16px;height:16px;background:url(images/fill_button.png) no-repeat center ;vertical-align: middle;border:0;
+	margin:0 0 0 5px;
+}
+
+#my-toolbar-size{
+	padding:0px 0 0px 10px;color:#C0C0C0;font-size:20px;font-weight:bold;
+}
+
+.my-toolbar-fill{
+	padding:10px 0 10px 5px;color:#C0C0C0;font-size:20px
+}
+
+.my-toolbar-rotateRight {
+    background-image: url(images/rotate_right.png) !important;
+	 
+}
+.my-toolbar-rotateLeft {
+    background-image: url(images/rotate_left.png) !important;
+	 
+}
+.my-toolbar-toptop {
+    background-image: url(images/toptop.png) !important;
+	 
+}
+.my-toolbar-top {
+    background-image: url(images/top.png) !important;
+	 
+}
+.my-toolbar-backback {
+    background-image: url(images/backback.png) !important;
+	 
+}
+.my-toolbar-back {
+    background-image: url(images/back.png) !important;
+	 
+}
+.my-toolbar-group {
+    background-image: url(images/group.png) !important;
+	 
+}
+.my-toolbar-ungroup {
+    background-image: url(images/ungroup.png) !important;
+	 
+}
+.my-toolbar-aligntop {
+    background-image: url(images/align_top.png) !important;
+	 
+}
+.my-toolbar-alignbottom {
+    background-image: url(images/align_bottom.png) !important;
+	 
+}
+.my-toolbar-alignleft {
+    background-image: url(images/align_left.png) !important;
+	 
+}
+.my-toolbar-alignright {
+    background-image: url(images/align_right.png) !important;
+	 
+}
+.my-toolbar-aligncenter {
+    background-image: url(images/align_center.png) !important;
+	 
+}
+.my-toolbar-aligncenter2 {
+    background-image: url(images/align_center2.png) !important;
+	 
+}

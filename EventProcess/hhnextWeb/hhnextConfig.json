@@ -1,0 +1,33 @@
+{
+  "Qiniu":{
+    "QiniuAccesskey": "",
+    "QiniuSecretkey": ""
+  },
+  "Fog": {
+    "FogBaseURL": "http://easylink.io/",
+    "FogLoginURL": "v2/users/login",
+    "FogSMSVerificationURL": "v2/users/sms_verification_code",
+    "FogRegisterURL": "v2/users",
+    "FogResetPasswordURL": "v2/users/password/reset",
+    "FogAuthorizeURL": "v2/devices/bind",
+    "FogUserQueryURL": "v2/devices/users",
+    "FogUserAddAuthURL": "v2/authorization/devices/manage",
+    "FogUserDelAuthURL": "v2/devices/users/",
+    "FogGetBoardURL": "v2/devices/get",
+    "FogActiveURL": "v2/devices",
+    "AppID": "",
+    "AppSecret": "",
+    "ProductID": "",
+    "ProductSecertKey": ""
+  },
+  "EZ": {
+    "EZAppKey": "34b9168b3fce452bb39d0764cbe298d5",
+    "EZAppSecret": "e230c8e4741034062ed3497b017e04b2",
+    "EZBaseURL": "https://open.ys7.com/api/method",
+    "EZCloudVersion": "1.0",
+    "EZGetTokenMethod": "token/getAccessToken",
+    "EZGetServerTimeMethod": "time/get"
+  }
+
+
+}

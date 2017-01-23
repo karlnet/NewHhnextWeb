@@ -1,0 +1,59 @@
+Sencha Cmd v6.1.3.42
+[INF] Processing Build Descriptor : default
+[INF] Loading app json manifest...
+[WRN] C1000: Rhino Parse Warning (Trailing comma is not legal in an ECMA-262 object initializer => 				}]) -- C:\sencha\myapp2\app\view\hmi\Editor.js:100:5
+[WRN] C1000: Rhino Parse Warning (Trailing comma is not legal in an ECMA-262 object initializer => 				}) -- C:\sencha\myapp2\app\view\hmi\Editor.js:138:5
+[ERR] C2000: Rhino Parse Error (missing : after property id => 			setDefaultProperty(object,options){) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:212:22
+[WRN] C1000: Rhino Parse Warning (Trailing comma is not legal in an ECMA-262 object initializer => 		});) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:287:3
+[ERR] C2000: Rhino Parse Error (syntax error => 	},) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:418:2
+[ERR] C2000: Rhino Parse Error (syntax error => 	onSetFrontColor:function () {) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:421:18
+[ERR] C2000: Rhino Parse Error (syntax error => 	},) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:425:3
+[ERR] C2000: Rhino Parse Error (syntax error => 	updateCavansObject:function(itemId, proterty , value){) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:426:21
+[ERR] C2000: Rhino Parse Error (syntax error => 			theCanvas.item(itemId).set(proterty, value).setCoords();;		) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:429:14
+[ERR] C2000: Rhino Parse Error (syntax error => 	},) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:432:2
+[ERR] C2000: Rhino Parse Error (syntax error => 	onStrokeWidthChange:function( slider , newValue , thumb , eOpts )  {) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:434:22
+[ERR] C2000: Rhino Parse Error (syntax error => 		this.updateCavansObject(this.getViewModel().get('property.zIndex'),'strokeWidth',parseInt(newValue,10));	) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:436:8
+[ERR] C2000: Rhino Parse Error (syntax error => 	},) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:439:2
+[ERR] C2000: Rhino Parse Error (syntax error => 	onPropertychange:function ( source , recordId , value , oldValue , eOpts )  {) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:441:19
+[ERR] C2000: Rhino Parse Error (syntax error => 	},) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:447:2
+[ERR] C2000: Rhino Parse Error (syntax error => 	onRectToolSelected:function () {) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:449:21
+[ERR] C2000: Rhino Parse Error (syntax error => 		theCanvas.activeTool='Rect';) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:458:13
+[ERR] C2000: Rhino Parse Error (syntax error => 	},) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:459:2
+[ERR] C2000: Rhino Parse Error (syntax error => 	onCircleToolSelected:function () {) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:461:23
+[ERR] C2000: Rhino Parse Error (syntax error => 		theCanvas.activeTool='Circle';			) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:462:13
+[ERR] C2000: Rhino Parse Error (syntax error => 	},) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:463:2
+[ERR] C2000: Rhino Parse Error (syntax error => 	onTextToolSelected:function () {) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:465:21
+[ERR] C2000: Rhino Parse Error (syntax error => 		theCanvas.activeTool='Text';) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:467:13
+[ERR] C2000: Rhino Parse Error (syntax error => 	},) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:468:2
+[ERR] C2000: Rhino Parse Error (syntax error => 	onlineToolSelected:function () {		) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:471:21
+[ERR] C2000: Rhino Parse Error (syntax error => 		theCanvas.activeTool='Line';) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:472:13
+[ERR] C2000: Rhino Parse Error (syntax error => 	},) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:473:2
+[ERR] C2000: Rhino Parse Error (syntax error => 	onEllipseToolSelected:function () {		) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:474:24
+[ERR] C2000: Rhino Parse Error (syntax error => 		theCanvas.activeTool='Ellipse';) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:475:13
+[ERR] C2000: Rhino Parse Error (syntax error => 	},) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:476:2
+[ERR] C2000: Rhino Parse Error (syntax error => 	onTriangleToolSelected:function () {) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:477:25
+[ERR] C2000: Rhino Parse Error (syntax error => 		theCanvas.activeTool='Triangle';) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:478:13
+[ERR] C2000: Rhino Parse Error (syntax error => 	},) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:479:2
+[ERR] C2000: Rhino Parse Error (syntax error => 	onGroup:function () {) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:480:10
+[ERR] C2000: Rhino Parse Error (syntax error => 	},) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:497:2
+[ERR] C2000: Rhino Parse Error (syntax error => 	onSendToBack:function () {		) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:498:15
+[ERR] C2000: Rhino Parse Error (syntax error => 	},) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:509:2
+[ERR] C2000: Rhino Parse Error (syntax error => 	onSendBackwards:function () {		) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:510:18
+[ERR] C2000: Rhino Parse Error (syntax error => 	},) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:518:2
+[ERR] C2000: Rhino Parse Error (syntax error => 	onBringForward:function () {		) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:520:17
+[ERR] C2000: Rhino Parse Error (syntax error => 	},) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:528:2
+[ERR] C2000: Rhino Parse Error (syntax error => 	onBringToFront:function () {		) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:529:17
+[ERR] C2000: Rhino Parse Error (syntax error => 	},) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:537:2
+[ERR] C2000: Rhino Parse Error (syntax error => 	onRotateLeft:function () {	) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:538:15
+[ERR] C2000: Rhino Parse Error (syntax error => 	} ) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:551:2
+[ERR] C2000: Rhino Parse Error (syntax error => });) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:553:2
+[ERR] C2000: Rhino Parse Error (Compilation produced 43 syntax errors. => null) -- C:\sencha\myapp2\app\view\hmi\EditorController.js:1
+[ERR] 
+[ERR] BUILD FAILED
+[ERR] org.mozilla.javascript.EvaluatorException: Compilation produced 43 syntax errors.
+[ERR] 
+[ERR] Total time: 8 seconds
+[ERR] The following error occurred while executing this line:
+C:\Users\Administrator\bin\Sencha\Cmd\6.1.3.42\plugins\ext\current\plugin.xml:425: The following error occurred while executing this line:
+C:\sencha\myapp2\.sencha\app\build-impl.xml:380: The following error occurred while executing this line:
+C:\sencha\myapp2\.sencha\app\init-impl.xml:382: org.mozilla.javascript.EvaluatorException: Compilation produced 43 syntax errors.
